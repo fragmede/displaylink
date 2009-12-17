@@ -1,0 +1,6 @@
+Stupid simple show bmp program that uses libusb to display things to a
+displaylink device.
+
+Ripped directly off of the testapp in libdlo (0.1.2).
+
+If you have the dependencies (libusb) then you can just 'make'.
